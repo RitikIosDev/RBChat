@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ChatDemo-ChatDemoUITests/Pods-ChatDemo-ChatDemoUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
+${BUILT_PRODUCTS_DIR}/RBChat/RBChat.framework

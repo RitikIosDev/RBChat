@@ -1,0 +1,6 @@
+framework module RBChat {
+  umbrella header "RBChat-umbrella.h"
+
+  export *
+  module * { export * }
+}

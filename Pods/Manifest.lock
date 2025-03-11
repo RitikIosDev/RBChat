@@ -1,0 +1,29 @@
+PODS:
+  - InputBarAccessoryView (5.5.0):
+    - InputBarAccessoryView/Core (= 5.5.0)
+  - InputBarAccessoryView/Core (5.5.0)
+  - MessageKit (3.8.0):
+    - InputBarAccessoryView (~> 5.5.0)
+  - RBChat (1.0.0):
+    - MessageKit
+
+DEPENDENCIES:
+  - RBChat (from `.`)
+
+SPEC REPOS:
+  trunk:
+    - InputBarAccessoryView
+    - MessageKit
+
+EXTERNAL SOURCES:
+  RBChat:
+    :path: "."
+
+SPEC CHECKSUMS:
+  InputBarAccessoryView: 1d7b0a672b36e370f01f264b3907ef39d03328e3
+  MessageKit: a1ba0c69ebead94029867853eb44dd05b9b3f453
+  RBChat: df1b9eb81d3b5c75e3bf9ebbb555a40c55c82bf7
+
+PODFILE CHECKSUM: e0192056591b4bbee6204921b9297885e4ddfce6
+
+COCOAPODS: 1.16.2
